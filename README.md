@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 This is Jinwei Han(韩金伟), a master student in Wuhan University.
 
