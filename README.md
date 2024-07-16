@@ -1,8 +1,8 @@
 ### Hi! 👋
 
-This is Jinwei Han(韩金伟), a master student in Wuhan University.
+This is Jinwei Han(韩金伟).
 
-- 🔭 I’m currently working on transfer learning, vision-language models and generative models.
+- 🔭 I’m currently working on vision-language models, generative models and transfer learning.
 - 📫 How to reach me: whuhjw@163.com
 
 <!--
